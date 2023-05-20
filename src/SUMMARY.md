@@ -5,7 +5,7 @@
 # User Guide
 
 - [Installing plugins](./installing-plugins.md)
-- [Authoring plugins]()
+- [Authoring plugins](./authoring-plugins.md)
 
 # Reference
 

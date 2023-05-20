@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Rush Plugins"
+
+[output.html]
+git-repository-url = "https://github.com/doinkythederp/rush/tree/plugins-docs"
+curly-quotes = true
