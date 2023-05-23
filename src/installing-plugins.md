@@ -6,9 +6,9 @@ By default, Rush will not search for or load any plugins. This chapter will guid
 
 Plugins are 3rd party software and it's up to the author to decide where to distribute them. Check with the plugin's author to find out where to obtain it from. Make sure your plugin file has a `.wasm` extension.
 
-If you'd like to try out an example plugin, you can download the [Welcome Message](https://github.com/doinkythederp/rush/raw/plugins/config/plugins/welcome_message.wasm) ([source](https://github.com/doinkythederp/rush/tree/plugins/example-plugins/welcome-message)) plugin, which displays a message when you start Rush to let you know that you installed it correctly.
+If you'd like to try out an example plugin, you can download the [Welcome Message](https://github.com/doinkythederp/rush/raw/plugins/config/plugins/welcome_message.wasm) ([source](https://github.com/doinkythederp/rush/tree/plugins/examples/plugins/welcome-message)) plugin, which displays a message when you start Rush to let you know that you installed it correctly.
 
-Rush also provides a simple [PATH Autocomplete](https://github.com/doinkythederp/rush/raw/plugins/config/plugins/path_autocomplete.wasm) ([source](https://github.com/doinkythederp/rush/tree/plugins/example-plugins/path-autocomplete)) plugin that suggests your available commands based on what you've typed so far.
+Rush also provides a simple [PATH Autocomplete](https://github.com/doinkythederp/rush/raw/plugins/config/plugins/path_autocomplete.wasm) ([source](https://github.com/doinkythederp/rush/tree/plugins/examples/plugins/path-autocomplete)) plugin that suggests your available commands based on what you've typed so far.
 
 ## Configuring Rush to load plugins
 
